@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **MERN, Flutter**
 
-- 👨‍💻 All of my projects are available at [vihangau.github.io/myPortfolio/](vihangau.github.io/myPortfolio/)
-
 - 💬 Ask me about **vue**
 
 - 📫 How to reach me **liyanaarachchivihanga@gmail.com**
