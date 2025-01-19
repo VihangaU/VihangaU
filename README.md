@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vihangau&label=Profile%20views&color=0e75b6&style=flat" alt="vihangau" /> </p>
 
-- 🔭 I’m currently working on **EcoAlert**
+- 🔭 I’m currently working on **SL-Audit**
 
 - 🌱 I’m currently learning **MERN, Flutter**
 
