@@ -3,15 +3,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vihangau&label=Profile%20views&color=0e75b6&style=flat" alt="vihangau" /> </p>
 
-- 🔭 I’m currently working on **SL-Audit**
+- 🔭 I’m currently working on **Smart Solar Advisor-Research Project**
 
-- 🌱 I’m currently learning **MERN, Flutter**
+- 🌱 I’m currently learning **Flask, Django, Angular**
 
-- 💬 Ask me about **vue**
+- 💬 Ask me anything about **Java, JavaScript, C++, C#, PHP, Kotlin**
 
 - 📫 How to reach me **liyanaarachchivihanga@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ More fact **I am a fun-loving person and a traveler.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
